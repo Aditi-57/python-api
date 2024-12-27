@@ -1,1 +1,1 @@
-web: python3 Model_service.py
+web: python3 model_service.py
